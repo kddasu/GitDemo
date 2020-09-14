@@ -8,3 +8,5 @@ Preparing for the git commands
 Added new line.
 Directly edited file from git hub.
 Master is modified.
+This is modified line in this file.
+Updating this file.
