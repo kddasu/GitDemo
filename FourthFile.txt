@@ -3,3 +3,4 @@ stagging some changes.
 Modifying the FourthFile.txt content.
 Again modified the FourthFile.txt.
 One more change is added.
+git add and commit
